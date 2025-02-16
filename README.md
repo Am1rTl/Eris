@@ -1,7 +1,7 @@
 # Eris Photo Bot
 
 Телеграм-бот для отправки случайных фотографий с возможностью настройки автоматической рассылки по расписанию.
-![Фотография из бота](https://raw.githubusercontent.com/Am1rTl/Eris/main/eris_photo/01aad7e3d10f5d9236e7b7eb0afd013d.jpg)
+<img src="https://raw.githubusercontent.com/Am1rTl/Eris/main/eris_photo/01aad7e3d10f5d9236e7b7eb0afd013d.jpg" width="300">
 
 ## Основные возможности:
 
